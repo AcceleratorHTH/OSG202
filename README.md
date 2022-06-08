@@ -14,7 +14,7 @@
 - Problem:
 - Solution:
 
-```console
+```bash
 #!/bin/bash
 
 
